@@ -1,12 +1,12 @@
-# TicTacToe
+<img src='images/SolidTest.gif' align='middle' width='500'>
 
-<img src='images/SolidTest.gif' align='middle'>
+# TicTacToe
 
 ### What is [Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) ?
 Tic-tac-toe or noughts and crosses or Xs and Os is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
 The following example game is won by the first player, X:
-![](images/tictac.png)
+<img src='images/tictac.png' border=''5>
 
 ### Requirements:
 * Two player's should be able to play the game, both sitting at the same computer.
