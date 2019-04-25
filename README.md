@@ -1,4 +1,4 @@
-<img src='images/NegativeRipe.gif' align='middle' width='800'>
+<img src='images/SolidTest.gif' align='middle' width='800'>
 
 # TicTacToe
 
